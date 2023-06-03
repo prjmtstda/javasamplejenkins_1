@@ -12,8 +12,5 @@ public class Manager_1
 		System.out.println("Done3");
 		System.out.println("Done4");
 		System.out.println("Done5");
-		System.out.println("Done6");
-		System.out.println("Done7");
-		
 	}
 }
